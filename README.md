@@ -7,5 +7,7 @@ The computer opponent will block any potential winning moves by the player and i
 
 The project implements a Model-View-Controller structure so that it is easy to change certain parts of the programme without affecting the others e.g. changing the way the player sees the board without affecting the inner logic of the board. 
 
+# Installation 
+
 To use this programme, clone the repository and run the ConnectFour Class within a code editor. 
 
